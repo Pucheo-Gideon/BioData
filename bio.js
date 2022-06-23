@@ -6,7 +6,7 @@ console.log(name);
 console.log(height);
 console.log(country);
 
-// Using Array
+// Using Objects
 
 let Bio = {
   name: "Gideon Okwongudo",
